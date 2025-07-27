@@ -1,7 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Mohd+Aasif;MERN+Stack+Developer;CSE+@+DTU;ML+Enthusiast+%26+Problem+Solver;&center=true&width=1000&height=50&pause=1000&color=1BCBF2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1BCBF2&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Mohd+Aasif;MERN+Stack+Developer;CSE+@+DTU;ML+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
+
 
 
 <p align="center">
@@ -14,20 +16,29 @@
 
 ---
 
-### 🔭 I’m currently:
-- 🌟 Enhancing my **problem-solving** on platforms like LeetCode & GFG
-- 🧠 Exploring **Machine Learning**
-- 💻 Building full-stack apps with the **MERN stack**
+### 🔭 I’m currently working on:
+- 🌟 Sharpening my **problem-solving** on platforms like **LeetCode** and **GFG**
+- 🧠 Diving deeper into **Machine Learning concepts** and real-world applications
+- 💻 Building full-stack projects using the **MERN stack** to solve real-life problems
 
 ---
 
 ### 💬 Ask me about:
-- DSA, Web Development, JavaScript, Python
+- Data Structures & Algorithms
+- Web Development (HTML, CSS, JS, Node, MongoDB, etc.)
+- Python scripting & automation
 
 ---
 
 ### ⚡ Fun fact:
-> I love building useful tools and exploring trending tech on the weekends.
+> I enjoy building web apps that are not only functional but also clean and user-focused.  
+> When I’m not coding, I love exploring new tech, learning design systems, and reading dev blogs.
+
+---
+
+### 🎯 My goal:
+> To become a well-rounded software developer who can **solve real-world problems**, **collaborate effectively**, and **build products that make a difference**.
+
 
 ---
 
@@ -37,9 +48,9 @@
   <a href="https://linkedin.com/in/mohd-aasif-80568b2a7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
-  <a href="https://www.leetcode.com/aasif_k7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30"/>
-  </a>
+  <a href="https://leetcode.com/aasif_k7" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="LeetCode" />
+</a>
   <a href="https://auth.geeksforgeeks.org/user/aasif_k7" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" />
   </a>
